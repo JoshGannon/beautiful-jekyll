@@ -8,7 +8,10 @@ subtitle: Why you want to work with me
 <br>
 ##### ADT Cybersecurity SMB: Greensboro, NC — Nov2018-Present
 
-Consult customers and manage Next-generation firewalls. Mostly utilizing Sonicwalls paired with GMS, some Fortigate with Forti*features, Cisco ASA Firepower paired with FMC and managed switches. Sonicwall work – SSL and IPsec VPNs, LDAP and SSO, DNS, DHCP, routing, port-forwarding, granular Access Control, IPS/Gateway AV/Anti-Spyware/Geo-IP and Botnet Filter, DPI-SSL and wifi. Rapidly implemented Secure Remote Access for customers during COVID-19 protocols. Focused on hardening and segmenting networks and decreasing attack surface while optimizing usability. Designing and implementing networking solutions to meet customer needs is a favorite.
+Consult customers and manage Next-generation firewalls. Mostly utilizing Sonicwalls paired with GMS, some Fortigates, Cisco ASA Firepower paired with FMC and managed switches. Sonicwall work – SSL and IPsec VPNs, LDAP and SSO, DNS, DHCP, routing, port-forwarding, granular Access Control, IPS/Gateway AV/Anti-Spyware/Geo-IP and Botnet Filter, DPI-SSL and wifi. Rapidly implemented Secure Remote Access for customers during COVID-19 protocols. Focused on hardening and segmenting networks and decreasing attack surface while optimizing usability. Designing and implementing networking solutions to meet customer needs is a favorite.
+
+##### Home Lab - continuous
+Netgate/pfsense, Hyper-V, Linux terminal, Docker Compose, Nginx, LetsEncrypt, Fail2ban, Rclone, custom logging and creating actions based on those logs with Regex. Customized and hosting this and a few other websites on Github Pages with the generous, open source [beautiful-jekyll](https://beautifuljekyll.com) repository.
 
 ##### NWG Solutions: Charlottesville, VA — Aug2015-Aug2018
 
